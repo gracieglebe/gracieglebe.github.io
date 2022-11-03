@@ -1,2 +1,5 @@
-# gracieglebe.github.io
-Gracie Glebe is a writer, teacher, and cat lover
+## Short Stories
+
+| Story | Link |
+|-|-|
+| Naked Bodies | [/stories/naked-bodies](/stories/naked-bodies)
