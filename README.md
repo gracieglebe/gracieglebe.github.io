@@ -8,6 +8,7 @@
 | Habits | [/stories/habits](/stories/habits)
 
 ## Essays
+
 | Essay | Link |
 |-|-|
 | The Divide Between Humans and Technology in William Gibson's "Neuromancer" | [/essays/neuromancer](/essays/neuromancer)
