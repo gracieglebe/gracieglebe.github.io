@@ -5,7 +5,7 @@
 | Naked Bodies | [/stories/naked-bodies](/stories/naked-bodies)
 | When the Words Disappeared | [/stories/when-the-words-disappeared](/stories/when-the-words-disappeared)
 | Snow | [/stories/snow](/stories/snow)
-| Habits | [stories/habits](/stories/habits)
+| Habits | [/stories/habits](/stories/habits)
 
 ## Essays
 | Essay | Link |
